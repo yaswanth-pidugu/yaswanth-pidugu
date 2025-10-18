@@ -1,4 +1,4 @@
-<!--
+  <!--
 Credits and references used in this README:
 
 1) Layout ideas and section inspiration:
@@ -10,11 +10,10 @@ Credits and references used in this README:
 3) GitHub stats card:
    https://github.com/anuraghazra/github-readme-stats
 -->
+<img align='right' src='https://github.com/user-attachments/assets/f8639f15-1ca6-4646-8d89-4b92cdfd09e6' width='350'>
 
-# 🐍 Yaswanth Pidugu
+# 𓆗 Yaswanth Pidugu
 **`Python Developer | Machine Learning Engineer`**
-
----
 
 ## About Me
 - I build, ship, and share AI-powered products in public.  
@@ -22,13 +21,11 @@ Credits and references used in this README:
 - Love turning data into insights — and insights into intelligent systems.  
 - Final-year B.Tech CSE (AI & ML) @ VIT-AP | CGPA 8.42  
 
----
-
 ## Skill Stack
-[![My Skills](https://skillicons.dev/icons?i=python,tensorflow,sklearn,flask,django,git,github,aws,docker,mysql,mongodb,linux,figma,powerbi&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,tensorflow,sklearn,flask,django,github,mysql,mongodb&theme=light)](https://skillicons.dev)
 
 **Also comfortable with:**  
-SQL (BigQuery | PostgreSQL) · CI/CD Pipelines · Cloud Deployments (AWS EC2/S3) · Feature Engineering · MLOps Workflows · Data Visualization (Matplotlib/Seaborn)
+SQL (BigQuery | MySQL) · Exploratory Data Analysis · Feature Engineering · Data Visualization (Matplotlib/Seaborn)
 
 ---
 
@@ -37,45 +34,39 @@ SQL (BigQuery | PostgreSQL) · CI/CD Pipelines · Cloud Deployments (AWS EC2/S3)
 <table>
   <tr>
     <td align="center" width="33%">
-      <a href="https://github.com/yaswanth-pidugu/Knowledge-Base-RAG">
-        <img src="https://github.com/yaswanth-pidugu/Knowledge-Base-RAG/assets/00000000/rag-preview.png"
-             alt="Knowledge-Base RAG Engine"
-             style="width:100%; height:200px; object-fit:cover;"/>
-      </a>
-      <br/>
-      <b>Knowledge-Base Search Engine (RAG System)</b><br/>
-      <sub>Built a Retrieval-Augmented Generation pipeline using LangChain + FAISS for contextual document Q&A.</sub><br/>
-      🔗 <a href="https://github.com/yaswanth-pidugu/Knowledge-Base-RAG">Repo</a><br/>
-      <sub>Tags: LLM · RAG · LangChain · Vector Search</sub>
-    </td>
-
+<a href="https://github.com/yaswanth-pidugu/LeetCode-Problem-Recommender.git">
+<img width="1567" height="496" alt="Image" src="https://github.com/user-attachments/assets/00cf20af-e8e5-4b41-9069-0b46a955ebc5" />
+</a>
+<br/>
+<b>LeetCode Problem Recommender</b><br/>
+<sub>Intelligent hybrid recommender that suggests personalized LeetCode problems using semantic embeddings and machine learning ranking.</sub><br/>
+🔗 <a href="https://github.com/yaswanth-pidugu/LeetCode-Problem-Recommender.git">Repo</a><br/>
+<sub>Tags: Machine Learning · Sentence-BERT · LightGBM</sub>
+</td>
     <td align="center" width="33%">
-      <a href="https://github.com/yaswanth-pidugu/LeetCode-Problem-Recommender">
-        <img src="https://github.com/yaswanth-pidugu/LeetCode-Problem-Recommender/assets/00000000/recommender.png"
-             alt="LeetCode Recommender"
-             style="width:100%; height:200px; object-fit:cover;"/>
+      <a href="https://github.com/yaswanth-pidugu/PESTOPIA-Indian-Pest-Classification.git">
+        <img width="753" height="406" alt="Image" src="https://github.com/user-attachments/assets/58284eee-09a3-446f-ac5b-ba4e38f5d563" />
       </a>
       <br/>
-      <b>LeetCode Problem Recommender</b><br/>
-      <sub>Hybrid LightGBM + Sentence-BERT engine that suggests coding questions based on user skill level.</sub><br/>
-      🔗 <a href="https://github.com/yaswanth-pidugu/LeetCode-Problem-Recommender">Repo</a><br/>
-      <sub>Tags: Machine Learning · NLP · Recommendation Systems</sub>
-    </td>
-
-    <td align="center" width="33%">
-      <a href="https://github.com/yaswanth-pidugu/PESTOPIA">
-        <img src="https://github.com/yaswanth-pidugu/PESTOPIA/assets/00000000/pestopia.png"
-             alt="PESTOPIA Pest Classification"
-             style="width:100%; height:200px; object-fit:cover;"/>
-      </a>
-      <br/>
-      <b>PESTOPIA – Indian Pest Classifier</b><br/>
+      <b>PESTOPIA – Pest Classifier</b><br/>
       <sub>Deep-learning model classifying 132 pest species from 55K images using VGG16 architecture (92 % accuracy).</sub><br/>
-      🔗 <a href="https://github.com/yaswanth-pidugu/PESTOPIA">Repo</a><br/>
-      <sub>Tags: CNN · Computer Vision · TensorFlow</sub>
+      🔗 <a href="https://github.com/yaswanth-pidugu/PESTOPIA-Indian-Pest-Classification.git">Repo</a><br/>
+      <sub>Tags: Deep Learning · CNN · TensorFlow</sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://github.com/yaswanth-pidugu/Retail-Sales-Prediction.git">
+        <img width="885" height="422" alt="Image" src="https://github.com/user-attachments/assets/af911f67-8243-4dc8-8e59-5d2b5460ea18" />
+      </a>
+      <br/>
+      <b>Retail Sales Prediction</b><br/>
+      <sub>Predicted daily Rossmann store sales using machine learning to improve forecasting accuracy and operational efficiency.</sub><br/>
+      🔗 <a href="https://github.com/yaswanth-pidugu/Retail-Sales-Prediction.git">Repo</a><br/>
+      <sub>Tags: Data Science · Regression · Random Forest</sub>
     </td>
   </tr>
 </table>
+
+
 
 ---
 
@@ -83,34 +74,14 @@ SQL (BigQuery | PostgreSQL) · CI/CD Pipelines · Cloud Deployments (AWS EC2/S3)
 ![Yaswanth’s GitHub stats](https://github-readme-stats.vercel.app/api?username=yaswanth-pidugu&show_icons=true&theme=gruvbox)
 
 ---
-<!-- Optional: fun GIF. Consider replacing with contribution streak or removing for a tighter, more professional finish. -->
-![image](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXh2ZzdlYWZndHl2dWcyb2RveHlpYzhsand5YmRmaHRwdXhlcGZhZyZlcD12MV9naWZzX3RyZW5kaW5nJmN0PWc/l3q2wJsC23ikJg9xe/giphy.gif)
----
+## Links
+<!-- Section layout inspired by Awesome GitHub Profile README "Descriptive" patterns:
+     https://github.com/abhisheknaiidu/awesome-github-profile-readme?tab=readme-ov-file#descriptive- -->
+- [**Contact**](mailto:yashwanthpidugu999@gmail.com)
 
-## 🌐 Connect With Me  
-
-<p align="center">
-  <a href="mailto:yashwanthpidugu999@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://www.linkedin.com/in/yaswanthpidugu/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Yaswanth%20Pidugu-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://leetcode.com/u/YaswanthPidugu/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-Yaswanth%20Pidugu-orange?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
-  </a>
-  <a href="https://github.com/yaswanth-pidugu" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-yaswanth--pidugu-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXh2ZzdlYWZndHl2dWcyb2RveHlpYzhsand5YmRmaHRwdXhlcGZhZyZlcD12MV9naWZzX3RyZW5kaW5nJmN0PWc/l3q2wJsC23ikJg9xe/giphy.gif" width="600" alt="Thank You Animation">
-</p>
-
-<p align="center">
-  <b>✨ Thanks for visiting my profile — let’s connect and build something impactful together!</b>
-</p>
-
+<a href="https://www.linkedin.com/in/yaswanthpidugu/" target="blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+</a>
+<a href="https://x.com/FlyingCircus_py" target="_blank">
+  <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" />
+</a>
