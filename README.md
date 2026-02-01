@@ -19,7 +19,7 @@ Credits and references used in this README:
 - I build, ship, and share AI-powered products in public.  
 - Passionate about Python development, Machine Learning, and real-world automation.  
 - Love turning data into insights — and insights into intelligent systems.  
-- Final-year B.Tech CSE (AI & ML) @ VIT-AP | CGPA 8.42  
+- Final-year B.Tech CSE (AI & ML) @ VIT-AP | CGPA 8.49  
 
 ## Skill Stack
 [![My Skills](https://skillicons.dev/icons?i=python,tensorflow,sklearn,flask,django,github,mysql,mongodb&theme=light)](https://skillicons.dev)
